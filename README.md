@@ -15,7 +15,7 @@ The code is currently being organized.
 ## 💡Installation
 
 ```
-git clone https:
+git clone https: https://github.com/WeiRoBotAI/MGSD-VC.git
 cd MGSD-VC
 ```
 
