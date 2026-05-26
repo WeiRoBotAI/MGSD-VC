@@ -35,7 +35,7 @@ pip install -e ./torchpack
 
 **Dataset (MA-52**）
 
-The dataset can be obtained from the MMN model repository:  [here]([momiji-bit/MMN: [ACM MM 2025\] This repository is the official implementation of the paper "Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition".](https://github.com/momiji-bit/MMN))
+The dataset can be obtained from the MMN model repository:  [here](https://github.com/momiji-bit/MMN)
 
 **Pretrain Model**
 
